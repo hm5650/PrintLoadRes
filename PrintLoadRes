@@ -1,1 +1,12 @@
-print("⚙️ --Show Console--");playSound("rbxassetid://9120299810");task.wait(0.2 -0 );print("⚙️ PrintLoad Is Active");playSound("rbxassetid://9120299810");task.wait(0.3 -0 );print("📝 Made By hmmm5650");playSound("rbxassetid://9120299810");task.wait();print("⚙️ Loading...");playSound("rbxassetid://9120299810");task.wait(1 -0 );
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+
+]]--
+
+print("⚙️ --Open Console--");task.wait();print("📝 Made By hmmm5650");task.wait();print("⚙️ PrintLoaderHasStarted");task.wait(0.5 -0 );
