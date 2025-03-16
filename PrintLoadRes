@@ -1,0 +1,1 @@
+print("⚙️ --Show Console--");playSound("rbxassetid://9120299810");task.wait(0.2 -0 );print("⚙️ PrintLoad Is Active");playSound("rbxassetid://9120299810");task.wait(0.3 -0 );print("📝 Made By hmmm5650");playSound("rbxassetid://9120299810");task.wait();print("⚙️ Loading...");playSound("rbxassetid://9120299810");task.wait(1 -0 );
